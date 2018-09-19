@@ -6,7 +6,7 @@
 <body>
 <h1>example 1</h1>
 <button>
-	Loard method
+	Load method
 	</button>
 	<div class="content">
 
